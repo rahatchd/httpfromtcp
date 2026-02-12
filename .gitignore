@@ -1,1 +1,4 @@
 assets
+cmd/httpserver/httpserver
+cmd/tcplistener/tcplistener
+cmd/udpsender/udpsender
